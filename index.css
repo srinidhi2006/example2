@@ -1,0 +1,39 @@
+.top,.mid,.foot{
+width:2500px;
+height:70px;
+background-color:#B9D9EB;
+border-radius:10px;
+border:1px solid gray;
+}
+.info{
+width:2500px;
+ background-color:F0F8FF;
+ height:1000px;
+}
+.sp{
+	text-decoration:underline;
+}
+.css{
+	font-family:cursive;
+	font-size:1.2rem;
+}
+h1{
+	color:white;
+	padding-right:700px;
+	display:flex;
+	text-align:center;
+	justify-content:center;
+	
+}
+.w3{
+	color:green;
+	text-decoration:underline;
+}
+*{
+	line-height:2rem;
+}
+.tools{
+	text-decoration:underline;
+	color:green;
+	
+}
